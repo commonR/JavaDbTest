@@ -1,6 +1,5 @@
 package com.demo;
 
-import com.db.DbConnect;
 import com.db.DbModel_1;
 
 public class Demo {
